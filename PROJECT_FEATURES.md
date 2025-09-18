@@ -7,3 +7,7 @@
 "This task involves capturing leaf images via smartphone, running a lightweight AI model for real-time disease classification, and providing treatment suggestions in local languages." 
 "**Status: Implemented**" 
 "" 
+"## T-2: Using Satellite - Moisture and Salinity Detection" 
+"This task involves integrating satellite data analysis to detect soil moisture and salinity levels, ensuring accurate environmental monitoring and support for agricultural decision-making." 
+"**Status: In Progress**" 
+"" 
