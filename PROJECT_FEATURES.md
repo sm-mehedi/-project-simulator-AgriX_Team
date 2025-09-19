@@ -11,3 +11,7 @@
 "This task involves integrating satellite data analysis to detect soil moisture and salinity levels, ensuring accurate environmental monitoring and support for agricultural decision-making." 
 "**Status: In Progress**" 
 "" 
+"## T-3: Implement Farmer-Buyer Transaction" 
+"This task involves creating the farmer-buyer transaction feature, allowing farmers to list products, buyers to purchase them, and handling transaction validation and processing." 
+"**Status: Implemented**" 
+"" 
